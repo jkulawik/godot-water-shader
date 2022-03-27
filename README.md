@@ -4,6 +4,8 @@
 
 A textured water shader for Godot. Made with low-res textures in mind, but it should look fine with better ones.
 
+[Raw shader code link](./WaterShaderDemo/water_simple.shader)
+
 Features:
 - waves
 - foam
